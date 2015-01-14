@@ -1,0 +1,6 @@
+D:\kmzi\LFSR\LFSR\bin\Debug\LFSR.exe.config
+D:\kmzi\LFSR\LFSR\bin\Debug\LFSR.exe
+D:\kmzi\LFSR\LFSR\bin\Debug\LFSR.pdb
+D:\kmzi\LFSR\LFSR\obj\Debug\LFSR.csprojResolveAssemblyReference.cache
+D:\kmzi\LFSR\LFSR\obj\Debug\LFSR.exe
+D:\kmzi\LFSR\LFSR\obj\Debug\LFSR.pdb
